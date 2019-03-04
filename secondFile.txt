@@ -1,3 +1,4 @@
 This is the initial contents
+This is the addition the the second file that UserB makes
 of the second file that comprises
 our most excellent project.
