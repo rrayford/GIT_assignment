@@ -1,4 +1,5 @@
 This is the initial contents
-This is the addition the the second file that UserB makes
+This is the addition to the second file that UserB makes
+UserA adds to line 2 of the second document
 of the second file that comprises
 our most excellent project.
